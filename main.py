@@ -16,7 +16,7 @@ class GUNLUK(QtWidgets.QMainWindow, Ui_MainWindow):
         font.setPointSize(8)
         self.gunluk.yaz.setFont(font)
         
-        self.setStyleSheet("background.color: black; color: white;")
+        self.setStyleSheet("background-color: #E2DCD7; color: white;")
         self.gunluk.yaz.setStyleSheet("""
             QLineEdit {
                 background-color: #F1D4E4;

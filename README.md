@@ -1,1 +1,1 @@
-# GunlukNotlarUygulamasi
+# Günlük Notlar Uygulaması

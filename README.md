@@ -1,1 +1,1 @@
-GunlukNotlarUygulamasi
+# GunlukNotlarUygulamasi
